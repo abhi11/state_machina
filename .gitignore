@@ -1,0 +1,9 @@
+*.iml
+*~*
+*#*
+*.class
+*.jar
+.*
+!.gitignore
+*.xml
+!pom.xml
